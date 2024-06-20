@@ -21,7 +21,7 @@ M.highlights_base = function(colors)
 		Comment = { fg = colors.color10, bg = colors.transparent },
 		Folded = { fg = colors.color4, bg = colors.transparent },
 		FoldColumn = { fg = colors.color4, bg = colors.transparent },
-		LineNr = { fg = colors.color12, bg = colors.transparent },
+		LineNr = { fg = colors.color12, bg = colors.background },
 		FloatBorder = { fg = colors.foreground, bg = colors.transparent },
 		Whitespace = { fg = colors.color1, bg = colors.color2 },
 		VertSplit = { fg = colors.color4, bg = colors.transparent },
