@@ -91,7 +91,7 @@ M.highlights_base = function(colors)
 		Ignore = { fg = colors.color7, bg = colors.transparent },
 		Todo = { fg = colors.color11, bg = colors.transparent },
 		Error = { fg = colors.color11, bg = colors.transparent },
-		-- TabLine = { fg = colors.color4, bg = colors.background },
+		TabLine = { fg = colors.color4, bg = colors.background },
 		-- TabLineSel = { fg = colors.foreground, bg = colors.background },
 		TabLineFill = { fg = colors.color4, bg = colors.transparent },
 		CmpDocumentationBorder = { fg = colors.foreground, bg = colors.transparent },
